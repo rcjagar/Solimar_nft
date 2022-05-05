@@ -40,7 +40,7 @@ const following = [
     name: "Sally Fadel",
     counter: "161 followers",
     avatar: "/images/content/avatar-5.jpg",
-    url: "https://ui8.net",
+    url: "http://sonor.io",
     buttonClass: "stroke",
     buttonContent: "Unfollow",
     gallery: [
@@ -54,7 +54,7 @@ const following = [
     name: "Aniya Harber",
     counter: "161 followers",
     avatar: "/images/content/avatar-6.jpg",
-    url: "https://ui8.net",
+    url: "http://sonor.io",
     buttonClass: "stroke",
     buttonContent: "Unfollow",
     gallery: [
@@ -68,7 +68,7 @@ const following = [
     name: "Edwardo Bea",
     counter: "161 followers",
     avatar: "/images/content/avatar-7.jpg",
-    url: "https://ui8.net",
+    url: "http://sonor.io",
     buttonClass: "stroke",
     buttonContent: "Unfollow",
     gallery: [
@@ -82,7 +82,7 @@ const following = [
     name: "Reymundo",
     counter: "161 followers",
     avatar: "/images/content/avatar-8.jpg",
-    url: "https://ui8.net",
+    url: "http://sonor.io",
     buttonClass: "stroke",
     buttonContent: "Unfollow",
     gallery: [
@@ -96,7 +96,7 @@ const following = [
     name: "Jeanette",
     counter: "161 followers",
     avatar: "/images/content/avatar-9.jpg",
-    url: "https://ui8.net",
+    url: "http://sonor.io",
     buttonClass: "stroke",
     buttonContent: "Unfollow",
     gallery: [
@@ -113,7 +113,7 @@ const followers = [
     name: "Sally Fadel",
     counter: "161 followers",
     avatar: "/images/content/avatar-5.jpg",
-    url: "https://ui8.net",
+    url: "http://sonor.io",
     buttonClass: "blue",
     buttonContent: "Follow",
     gallery: [
@@ -127,7 +127,7 @@ const followers = [
     name: "Aniya Harber",
     counter: "161 followers",
     avatar: "/images/content/avatar-6.jpg",
-    url: "https://ui8.net",
+    url: "http://sonor.io",
     buttonClass: "blue",
     buttonContent: "Follow",
     gallery: [
@@ -141,7 +141,7 @@ const followers = [
     name: "Edwardo Bea",
     counter: "161 followers",
     avatar: "/images/content/avatar-7.jpg",
-    url: "https://ui8.net",
+    url: "http://sonor.io",
     buttonClass: "blue",
     buttonContent: "Follow",
     gallery: [
@@ -155,7 +155,7 @@ const followers = [
     name: "Reymundo",
     counter: "161 followers",
     avatar: "/images/content/avatar-8.jpg",
-    url: "https://ui8.net",
+    url: "http://sonor.io",
     buttonClass: "blue",
     buttonContent: "Follow",
     gallery: [
@@ -169,7 +169,7 @@ const followers = [
     name: "Jeanette",
     counter: "161 followers",
     avatar: "/images/content/avatar-9.jpg",
-    url: "https://ui8.net",
+    url: "http://sonor.io",
     buttonClass: "blue",
     buttonContent: "Follow",
     gallery: [

@@ -78,11 +78,11 @@ const Item = () => {
               This NFT Card will give you Access to Special Airdrops. To learn
               more about UI8 please visit{" "}
               <a
-                href="https://ui8.net"
+                href="http://sonor.io"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                https://ui8.net
+                http://sonor.io
               </a>
             </div>
             <div className={styles.nav}>
